@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DripDrip</string>
+    <string name="dripdrip">DripDrip</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_a_new_account">Register a new account</string>
+    <string name="login">Login</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="login_with_an_existing_account">Login with an existing account</string>
+    <string name="register">Register</string>
+    <string name="error_input_empty">The fields must not be empty</string>
+    <string name="error_username_too_short">The username can\'t have less than %d characters</string>
+    <string name="error_incorrectly_repeated_password">The passwords do not match</string>
+    <string name="error_username_too_long">The username can\'t have more than %d characters</string>
+    <string name="error_password_too_short">The password must be at least %d digits long</string>
+    <string name="error_not_a_valid_email">Please enter a valid E-Mail</string>
+    <string name="success_registration">Successfully registered account</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_passwords">Forgot password?</string>
+    <string name="edit_your_profile">Edit Your Profile</string>
+    <string name="username">Username</string>
+    <string name="description">Description</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="search">Search</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="enter_post_text">Enter post text...</string>
+    <string name="post">Post</string>
+    <string name="follows">Follows</string>
+    <string name="posts">Posts</string>
+    <string name="tochukwu">Tochukwu</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="liked_by_tm_and_120_others">Liked by Tm and 120 others</string>
+    <string name="example_post_text">Today is a good day to make a post in this social network, this is actually just an example text I write to have some lines of text</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="follow">Follow</string>
+    <string name="home">Home</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="settings">settings</string>
+    <string name="logout">Logout</string>
+    <string name="error_no_image_chosen">Please choose an image for the post</string>
+    <string name="no_changes_detected">You didn\'t change anything</string>
+    <string name="delete_post_dialog_title">Do you want to delete that post?</string>
+    <string name="delete_post_dialog_message">This action cannot be undone.</string>
+    <string name="delete_post_dialog_positive">Yes</string>
+    <string name="profile_updated">Profile updated</string>
+    <string name="delete_post_dialog_negative">No</string>
+    <string name="no_description">No Description</string>
+    <string name="comment">Comment</string>
+    <string name="enter_comment">Enter Comment</string>
+
+</resources>
+
+
+
