@@ -1,14 +1,10 @@
 # DripDrip
-A social network app using firebase, pagination, mvvm architecture, live data, flow and coroutine
+A social network app built with Model-View-View-model architecture
 
 
-
-
-![IMG_20210307_233627](https://user-images.githubusercontent.com/61085272/110285443-8c1dd080-7fe3-11eb-8d93-28ebebb576dc.jpg)
-![IMG_20210307_233704](https://user-images.githubusercontent.com/61085272/110285448-8de79400-7fe3-11eb-8eeb-37aed811d4f9.jpg)
-![IMG_20210307_234027](https://user-images.githubusercontent.com/61085272/110285454-8f18c100-7fe3-11eb-9da8-db5a7a2e995f.jpg)
-![IMG_20210307_233543](https://user-images.githubusercontent.com/61085272/110285462-9213b180-7fe3-11eb-9c49-d1c077325aca.jpg)
-
+## Preview
+<img src="https://user-images.githubusercontent.com/61085272/110285443-8c1dd080-7fe3-11eb-8d93-28ebebb576dc.jpg" width="33%" /> <img src="https://user-images.githubusercontent.com/61085272/110285448-8de79400-7fe3-11eb-8eeb-37aed811d4f9.jpg" width="33%" /> 
+<img src="https://user-images.githubusercontent.com/61085272/110285454-8f18c100-7fe3-11eb-9da8-db5a7a2e995f.jpg" width="33%"/> <img src="https://user-images.githubusercontent.com/61085272/110285462-9213b180-7fe3-11eb-9c49-d1c077325aca.jpg" width="33%"/>
 
 
 
