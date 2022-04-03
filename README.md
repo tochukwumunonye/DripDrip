@@ -1,5 +1,14 @@
 # DripDrip
-A social network app built with Model-View-View-model architecture
+A social network app built with Model-View-View-model architecture.
+
+### Features
+
+ - Upload Pictures
+ - Like and Comment on Posts
+ - Search For Friends
+ - Follow Friends
+
+
 
 
 ## Preview
